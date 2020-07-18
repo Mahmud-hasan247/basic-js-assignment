@@ -73,7 +73,5 @@ function tinyFriend(names){
     }
     return smallest;
 }
-var show = tinyFriend(["mah", "mahmuda", "imin", "masud"]);
-console.log(show);
 
 
